@@ -354,7 +354,7 @@ const styles = StyleSheet.create({
     borderRadius: 0,
     marginBottom: 15,
     fontSize: 16,
-    marginTop: "-2%",
+    marginTop: "-9%",
     borderTopLeftRadius: 10,
     borderTopRightRadius: 10,
     borderColor: '#D3D3D3',
@@ -372,6 +372,7 @@ const styles = StyleSheet.create({
   },
   option: {
     backgroundColor: '#4A5B6D',
+    padding: 15,
     borderRadius: 20,
     flexDirection: 'row',
     alignItems: 'center',
@@ -431,6 +432,6 @@ const styles = StyleSheet.create({
     backgroundColor: '#fff',  // White background
     borderRadius: 10,  // Small border radius for square corners
     borderWidth: 0,  // Optional: Add border
-    padding:13
+
   },
 });
